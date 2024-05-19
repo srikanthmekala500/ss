@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { toast } from 'react-toastify'
+ 
 import axios from 'axios'
 import { Card } from 'antd'
 import Layout from './Layout';
@@ -45,7 +45,7 @@ const Bet = () => {
           
           
           navigate('/dilution ')
-          toast.success("res.data.message")
+        
         }else{
         
           toast.error(res.data.message)
@@ -56,7 +56,7 @@ const Bet = () => {
  
       } catch (error) {
         console.log(error)
-        toast.error("Something went wrong")
+     
       }
     
       
