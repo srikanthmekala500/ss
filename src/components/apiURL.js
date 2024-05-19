@@ -1,0 +1,1 @@
+export const URL = "https://betbackend-v5l5.onrender.com"
