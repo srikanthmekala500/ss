@@ -3,7 +3,7 @@ import axios from 'axios'
 import Layout from './Layout';
 import { useNavigate } from 'react-router-dom'
 import { URL } from './apiURL';
-import { toast } from 'react-toastify';
+ 
 const Bet_dilution = () => {
      
     const [usersData, setUsersData] = useState([])
@@ -31,16 +31,16 @@ const Bet_dilution = () => {
           const {data} = await axios.delete(`${URL}/api/v1/user/delete/${id}`,
           );
           if(data.success){
-            toast.success("delete")
+        
             bet_dilutionfetch()
           }
           else{
             console.log(data.message)
-            toast.error('something wrong')
+          
           }
         } catch (error) {
           console.log(error)
-          toast.error("something went to wrong")
+ 
         }
       }
 
