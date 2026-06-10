@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
+| ---------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Total Aerobic Microbial Count (TAMC)     | Staphylococcus aureus    | 10 mL of 1:10 sample dilution into SCDB (≈1 g/1 mL sample); incubate 30–35°C, NLT 24 h                                      | Mannitol Salt Agar (MSA); incubate 30–35°C, NLT 72 h             | Yellow or white colonies surrounded by a distinct yellow zone. **Note:** The yellow zone indicates mannitol fermentation, causing the phenol red indicator in the agar to change from red/pink to yellow. |
+| Total Aerobic Microbial Count (TAMC)     | Pseudomonas aeruginosa   | 10 mL of 1:10 sample dilution into SCDB (≈1 g/1 mL sample); incubate 30–35°C, NLT 24 h                                      | Cetrimide Agar; incubate 30–35°C, NLT 72 h                       | Greenish-blue or yellowish-green colonies. **Note:** Pigment production (pyocyanin and/or pyoverdine) may result in characteristic fluorescence under UV light.                                           |
+| Total Aerobic Microbial Count (TAMC)     | Bacillus spizizenii      | Sample inoculated into SCDB; incubate 30–35°C, 24–48 h                                                                      | Soybean-Casein Digest Agar (SCDA/TSA); incubate 30–35°C, 24–48 h | Large cream-colored colonies. **Note:** Colonies are typically rough, irregular, and characteristic of Bacillus species.                                                                                  |
+| Total Combined Yeast & Mold Count (TYMC) | Candida albicans         | Sample inoculated into Sabouraud Dextrose Broth (SDB); incubate 30–35°C, NLT 5 days                                         | Sabouraud Dextrose Agar (SDA); incubate 30–35°C, NLT 48 h        | White to cream-colored smooth colonies. **Note:** Colonies may exhibit a characteristic yeast-like appearance and odor.                                                                                   |
+| Total Combined Yeast & Mold Count (TYMC) | Aspergillus brasiliensis | Sample inoculated into SDB; incubate 20–25°C, up to 5 days                                                                  | SDA; incubate 20–25°C, 3–5 days                                  | Black sporulating mold colonies. **Note:** Mature colonies develop dense black conidial heads.                                                                                                            |
+| Specified Microorganisms                 | Escherichia coli         | 10 mL sample dilution into SCDB; incubate 30–35°C, NLT 24 h. Transfer 1 mL into MacConkey Broth; incubate 42–44°C, NLT 48 h | MacConkey Agar; incubate 30–35°C, NLT 72 h                       | Brick-red to bright pink colonies. **Note:** Lactose fermentation produces acid, resulting in pink-red colony coloration and possible bile precipitation.                                                 |
+| Specified Microorganisms                 | Staphylococcus aureus    | 10 mL of 1:10 sample dilution into SCDB (≈1 g/1 mL sample); incubate 30–35°C, NLT 24 h                                      | Mannitol Salt Agar (MSA); incubate 30–35°C, NLT 72 h             | Yellow or white colonies surrounded by a distinct yellow zone. **Note:** Mannitol fermentation changes the phenol red indicator from red/pink to yellow.                                                  |
+| Specified Microorganisms                 | Pseudomonas aeruginosa   | 10 mL of 1:10 sample dilution into SCDB (≈1 g/1 mL sample); incubate 30–35°C, NLT 24 h                                      | Cetrimide Agar; incubate 30–35°C, NLT 72 h                       | Greenish-blue or yellowish-green colonies. **Note:** Pyocyanin and pyoverdine pigments are characteristic and may fluoresce under UV light.                                                               |
+| Specified Microorganisms                 | Salmonella spp.          | 10 g/10 mL sample into SCDB; incubate 30–35°C, NLT 24 h. Transfer 0.1 mL into RVSEB; incubate 30–35°C, NLT 24 h             | XLD Agar; incubate 30–35°C, NLT 48 h                             | Red colonies with or without black centers. **Note:** Black centers result from hydrogen sulfide (H₂S) production reacting with ferric ions in the medium.                                                |
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Probable count does not apply to settle plate results. The value was entered mistakenly by the analyst; the error was identified during review and corrected accordingly.
