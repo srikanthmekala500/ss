@@ -1,36 +1,14 @@
-1111111111111111111111
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
 
 
 
 
 
-1
-1
-1
-11
-11111111
-1
-1
-1
-1
-1
-1
-11
-1
-11
-
-
-
-
-
-
-
-
-
-
-
-
-
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
+Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
 
 
 Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
