@@ -1,3 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Test Category                            | Name of the Strain       | Enrichment (Inoculation & Incubation)                                                                                       | Selective Subculture                                             | Typical Colony Morphology / Note                                                                                                                                                                          |
 | ---------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Total Aerobic Microbial Count (TAMC)     | Staphylococcus aureus    | 10 mL of 1:10 sample dilution into SCDB (≈1 g/1 mL sample); incubate 30–35°C, NLT 24 h                                      | Mannitol Salt Agar (MSA); incubate 30–35°C, NLT 72 h             | Yellow or white colonies surrounded by a distinct yellow zone. **Note:** The yellow zone indicates mannitol fermentation, causing the phenol red indicator in the agar to change from red/pink to yellow. |
