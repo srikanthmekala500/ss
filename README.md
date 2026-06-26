@@ -48,3 +48,7 @@ Test Category                            | Name of the Strain       | Enrichment
 | Specified Microorganisms                 | Salmonella spp.          | 10 g/10 mL sample into SCDB; incubate 30–35°C, NLT 24 h. Transfer 0.1 mL into RVSEB; incubate 30–35°C, NLT 24 h             | XLD Agar; incubate 30–35°C, NLT 48 h                             | Red colonies with or without black centers. **Note:** Black centers result from hydrogen sulfide (H₂S) production reacting with ferric ions in the medium.                                                |
 
 Probable count does not apply to settle plate results. The value was entered mistakenly by the analyst; the error was identified during review and corrected accordingly.
+
+https://share.google/aimode/oHw10DlgOb7b6TNfH
+
+https://share.google/aimode/3SdMCf7C3nj7JdItJ
